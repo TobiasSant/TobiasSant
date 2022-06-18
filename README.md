@@ -1,5 +1,5 @@
-# Tobias SAntagada
-Personal repository ^_^
+# Tobias Santagada
+^_^
 
 - 👋 Hi, I’m Tobias Santagada
 - 🐣 I’m currently learning Web Development  
