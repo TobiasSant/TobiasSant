@@ -24,7 +24,7 @@
 
 ### More technologies applied in organizations 
 
-<p align="center">
+<p align="rigth">
 <a href="https://github.com/TobiasSant">
   <img height="30em" src="https://img.shields.io/static/v1?logo=Go&message=Go&label=.&color=purple&logoColor=white&style=flat"/>
   <img height="30em" src="https://img.shields.io/static/v1?logo=Docker&message=Docker&label=.&color=purple&logoColor=white&style=flat"/>
